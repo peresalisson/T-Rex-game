@@ -1,0 +1,19 @@
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.exe
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.deps.json
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.runtimeconfig.json
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.runtimeconfig.dev.json
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.dll
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\ref\T-Rex Game.dll
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.pdb
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csproj.AssemblyReference.cache
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T_Rex_Game.Form1.resources
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T_Rex_Game.Properties.Resources.resources
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csproj.GenerateResource.cache
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.AssemblyInfoInputs.cache
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.AssemblyInfo.cs
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csproj.CoreCompileInputs.cache
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.dll
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\ref\T-Rex Game.dll
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.pdb
+C:\Users\Alisson Peres\Desktop\PERES\Dev\ownprojects\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.genruntimeconfig.cache
